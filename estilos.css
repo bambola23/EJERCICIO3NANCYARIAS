@@ -7,9 +7,9 @@ a.as{
 }
 
 a.marca:hover{
-    background-color: green;
+    color: green;
 }
 
 a.as:hover{
-    background-color: red;
+    color: red;
 }
